@@ -27,7 +27,7 @@ Ensure you have Python 3.x installed, then install the required library:
 
 Clone the repository:
 
-    https://github.com/ReshmaP-001/Secure-Data-Hiding-In-Images-Using-Steganography.git
+    https://github.com/GreatCoder12/CyberSecurity
 
 # ⚡ Usage
 
