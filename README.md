@@ -60,7 +60,7 @@ Clone the repository:
 
 ## Screenshot
 
-![Screenshot 2025-02-25 171230](https://github.com/user-attachments/assets/df20b3bc-d503-4f8c-b6eb-5d075a3769f6)
+![image](https://github.com/user-attachments/assets/82edb8bb-be1c-4272-bde6-170b54f9bdee)
 
 
 ## 📜 License
